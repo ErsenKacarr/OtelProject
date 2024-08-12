@@ -16,7 +16,7 @@ Bu proje,ASP.NET Framework, SQL , MVC, CSS ve HTML  ve N katmanlı mimari kullan
 - PAGEDlİST
 - EP PLUS
 - İTEXT7
-- RAPİD APİ İLE HAVA DURUMU BİLGİSİ
+- RAPİD APİ TRİPADVİSOR
 - GOOGLE CHART
 
  # Uygulamanın Özellikleri
