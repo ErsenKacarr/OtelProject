@@ -29,7 +29,7 @@ Bu proje,ASP.NET Framework, SQL , MVC, CSS ve HTML  ve N katmanlı mimari kullan
 - Sayfalama özelliği veriler daha yönetilebilir parçalara bölünerek görüntülenir ve  verileri listeleyerek daha anlaşılır görünüme ulaşma
 - Raporlama ile verileri pdf ve excel formatına dönüştürebilme
 - Pop-up'lar kullanılarak siteye   dinamik ve etkileşimli içeriklerin (rezervasyon formları, onay pencereleri vb.) görünümü sağlanıldı
-- Hava durumu bilgisi ile sıcaklık verisine kolay erişilebilme
+- Hava durumu bilgisi ile sıcaklık verisine kolay erişilebilme.
 
 
  # Ekran Görüntüleri
